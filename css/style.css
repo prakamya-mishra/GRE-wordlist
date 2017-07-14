@@ -8,7 +8,12 @@ h1{
   font-weight: bold;
   margin: 5%;
 }
-p,td{
+p{
+  color: #fff;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
+}
+td{
   font-family: 'Ubuntu', sans-serif;
   font-size: 1em;
   font-weight: bold;
